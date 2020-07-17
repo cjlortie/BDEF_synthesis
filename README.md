@@ -1,7 +1,6 @@
 # BDEF_synthesis
-EDA on diversity and functional synthesis for tipping points.  
 
-Tipping points in interactions associated with ecosystem function.
+**Tipping points in interactions associated with ecosystem function**  
 Authors: Christopher J. Lortie, Jenna Braun, and Gavin Stewart
 
 Summary  
